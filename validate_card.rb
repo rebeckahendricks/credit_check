@@ -1,4 +1,3 @@
-require 'pry'
 require_relative './lib/credit_check'
 
 def display_help
